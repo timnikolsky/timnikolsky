@@ -1,2 +1,5 @@
 ## Hi there!
-I'm student from Moscow
+I'm a young web developer and designer from Moscow, Russia.
+
+### Skills
+
