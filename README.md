@@ -2,13 +2,7 @@
 I'm a young web developer and designer from Moscow, Russia.
 
 ### 🔥 Skills
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img alt="Postgresql" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=typescript,react,nextjs,prisma,postgres,sass,discord)](https://skillicons.dev)
 
 #### ⚙ Tools I use
 <p>
