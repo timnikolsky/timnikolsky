@@ -6,9 +6,8 @@ I'm a young web developer and designer from Moscow, Russia.
 
 #### ⚙ Tools I use
 <p>
-  <img alt="Webstorm" src="https://img.shields.io/badge/-Webstorm-000000?style=flat-square&logo=webstorm&logoColor=white"/>
-  <img alt="DataGrip" src="https://img.shields.io/badge/-Datagrip-000000?style=flat-square&logo=datagrip&logoColor=white"/>
   <img alt="VS Code" src="https://img.shields.io/badge/-VS Code-22A7F2?style=flat-square&logo=visual studio code&logoColor=white"/>
+  <img alt="DataGrip" src="https://img.shields.io/badge/-Datagrip-000000?style=flat-square&logo=datagrip&logoColor=white"/>
   <br>
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
   <img alt="Crowdin" src="https://img.shields.io/badge/-Crowdin-2E3340?style=flat-square&logo=crowdin&logoColor=white"/>
