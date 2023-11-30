@@ -1,5 +1,5 @@
 ## 👋 Hi there!
-I'm a young web developer and designer from Moscow, Russia.
+I'm a web developer and designer from Moscow, Russia.
 
 ### 🔥 Skills
 [![My Skills](https://skillicons.dev/icons?i=typescript,react,nextjs,prisma,postgres,sass,discord)](https://skillicons.dev)
